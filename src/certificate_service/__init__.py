@@ -1,0 +1,2 @@
+"""Completion certificate service."""
+
